@@ -13,3 +13,6 @@ High: learnt about positioning and css functions, did 30 exercises on legacy js 
 low :felt frustrating trying to learn the css functions
 
 ### R1D3
+High: learnt about CSS variables the usage , best practices etc , revisited CSS function -- #theodinproject  
+
+### R1D4
