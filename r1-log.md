@@ -16,3 +16,6 @@ low :felt frustrating trying to learn the css functions
 High: learnt about CSS variables the usage , best practices etc , revisited CSS function -- #theodinproject  
 
 ### R1D4
+ Tried building a progressive step using css and js, also did a recap on css variables
+
+ ### R1D5
