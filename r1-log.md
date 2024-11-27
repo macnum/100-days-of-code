@@ -19,3 +19,9 @@ High: learnt about CSS variables the usage , best practices etc , revisited CSS 
  Tried building a progressive step using css and js, also did a recap on css variables
 
  ### R1D5
+ Did 20 exercises on legacy js freecodecamp, on odin projects learnt about browser compatibility , CSS frameworks,Css precompilers(2 pages with diff link)
+
+### R1D6
+  Learnt about forms - mostly input, the types and containers for form control or widgets
+
+### R1D7
