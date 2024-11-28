@@ -25,3 +25,6 @@ High: learnt about CSS variables the usage , best practices etc , revisited CSS 
   Learnt about forms - mostly input, the types and containers for form control or widgets
 
 ### R1D7
+ Did freecodecamp legacy js did 30 exercises
+
+### R1D8
