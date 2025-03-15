@@ -11,3 +11,6 @@ Started a  recap on odin project foundation course, completed  5 lessons, learnt
     Completed 7 sections on odin project, also learnt about psuedocode etc
 
 ### R1D3
+    Completed 9 sections in odin project foundation course.
+
+### R1D4
