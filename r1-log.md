@@ -14,3 +14,7 @@ Started a  recap on odin project foundation course, completed  5 lessons, learnt
     Completed 9 sections in odin project foundation course.
 
 ### R1D4
+    Highs: Completed 3 lessons in The Odin Project foundations! 
+    Lows:  nothing much really.
+
+### R1D5
