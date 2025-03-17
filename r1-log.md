@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [March 12, Monday, 2025].
 
 ## Log
 
-### R1D1 
+### R1D1
 Started a  recap on odin project foundation course, completed  5 lessons, learntthe basics on using VI, completed VI exercise on alx
 
 ### R1D2
@@ -14,7 +14,11 @@ Started a  recap on odin project foundation course, completed  5 lessons, learnt
     Completed 9 sections in odin project foundation course.
 
 ### R1D4
-    Highs: Completed 3 lessons in The Odin Project foundations! 
+    Highs: Completed 3 lessons in The Odin Project foundations!
     Lows:  nothing much really.
 
 ### R1D5
+    Highs: Completed 5 lessons in The Odin Project foundations!
+    Lows:  nothing much really.
+
+### R1D6
