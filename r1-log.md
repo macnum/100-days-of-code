@@ -16,8 +16,9 @@ Started a  recap on odin project foundation course, completed  5 lessons, learnt
 ### R1D4
     Highs: Completed 3 lessons in The Odin Project foundations!
     Lows:  nothing much really.
+#
 
-### R1D5
+## R1D5
     Highs: Completed 5 lessons in The Odin Project foundations!
     Lows:  nothing much really.
 
@@ -26,4 +27,7 @@ Started a  recap on odin project foundation course, completed  5 lessons, learnt
     Lows:  nothing to talk about.
     
 ### R1D7
-    
+   Highs: Wrapped up all basic flex sections in The Odin Project Foundations!  Learned about ".md" formatting, GitHub branching, and merging (just the basics).
+ 
+### R1D8
+   
