@@ -22,3 +22,8 @@ Started a  recap on odin project foundation course, completed  5 lessons, learnt
     Lows:  nothing much really.
 
 ### R1D6
+    Highs: Completed all basic css section in The Odin Project foundations!
+    Lows:  nothing to talk about.
+    
+### R1D7
+    
