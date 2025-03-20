@@ -30,4 +30,8 @@ Started a  recap on odin project foundation course, completed  5 lessons, learnt
    Highs: Wrapped up all basic flex sections in The Odin Project Foundations!  Learned about ".md" formatting, GitHub branching, and merging (just the basics).
  
 ### R1D8
-   
+    Did some project exercise on Flexbox , read through some article on Feyman techinque, diffused & focused thinking, did a recap on emacs
+    low: i didn't do much today, sticking to my commitment is kind of hard, but i plan on pulling through no matter how frustration or stressful it is.
+    
+### R1D9
+
