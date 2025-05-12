@@ -12,4 +12,9 @@ Watched a 1.5-hour YouTube video on CSS and learned about: Columns, Flexbox, Pos
 Learned a bit about TDD (Test-Driven Development) today.
 Still getting familiar with the concept, but it's a start!
 
-### R1D3
+### R1D3 ✅
+Learned about event delegation and event bubbling in JavaScript.
+Continued exploring Test-Driven Development (TDD).
+Making steady progress!
+
+### R1D4
