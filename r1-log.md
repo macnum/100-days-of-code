@@ -17,4 +17,8 @@ Learned about event delegation and event bubbling in JavaScript.
 Continued exploring Test-Driven Development (TDD).
 Making steady progress!
 
-### R1D4
+### R1D4 ✅
+Built a simple shopping list that lets you add and delete items using events and DOM manipulation.
+Started working on a graphic interface for The Odin Project's Rock Paper Scissors game 🎮
+
+### R1D5
