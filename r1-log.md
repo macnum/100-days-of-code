@@ -22,3 +22,7 @@ Built a simple shopping list that lets you add and delete items using events and
 Started working on a graphic interface for The Odin Project's Rock Paper Scissors game 🎮
 
 ### R1D5
+Didn’t do much today, just completed the Rock Paper Scissors game.
+Planning to make up for it with more focused work tomorrow! 
+
+### R1D6
