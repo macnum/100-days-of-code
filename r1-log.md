@@ -26,3 +26,7 @@ Didn’t do much today, just completed the Rock Paper Scissors game.
 Planning to make up for it with more focused work tomorrow! 
 
 ### R1D6
+Completed The Odin Project’s Etch-a-Sketch project today!
+Practiced DOM manipulation, event listeners, and added hover effects with different color modes.
+
+### R1D7
