@@ -30,3 +30,4 @@ Completed The Odin Project’s Etch-a-Sketch project today!
 Practiced DOM manipulation, event listeners, and added hover effects with different color modes.
 
 ### R1D7
+Light day today. Revisited array methods and brushed up on higher-order array functions like .map(), .filter(), and .reduce(). Also started getting familiar with JavaScript objects.
