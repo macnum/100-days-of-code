@@ -31,3 +31,9 @@ Practiced DOM manipulation, event listeners, and added hover effects with differ
 
 ### R1D7
 Light day today. Revisited array methods and brushed up on higher-order array functions like .map(), .filter(), and .reduce(). Also started getting familiar with JavaScript objects.
+
+
+### R1D8
+Studied JavaScript objects today. Didn’t get a lot done, but made some progress with understanding how objects work, constructor.
+
+### R1D9
