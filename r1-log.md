@@ -36,4 +36,8 @@ Light day today. Revisited array methods and brushed up on higher-order array fu
 ### R1D8
 Studied JavaScript objects today. Didn’t get a lot done, but made some progress with understanding how objects work, constructor.
 
+
 ### R1D9
+Revisited high-order array methods and objects. Practiced with exercises using filter, sort, map, reduce, some, every, and find. Also explored how to access and work with arrays of objects.
+
+### R1D10
