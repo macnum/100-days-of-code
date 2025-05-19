@@ -41,3 +41,10 @@ Studied JavaScript objects today. Didn’t get a lot done, but made some progres
 Revisited high-order array methods and objects. Practiced with exercises using filter, sort, map, reduce, some, every, and find. Also explored how to access and work with arrays of objects.
 
 ### R1D10
+Day 10
+Completed JavaScript exercises including palindrome checks, Fibonacci sequence, and more. Read blog posts on Regular Expressions to deepen understanding.
+- Lows: Supposed to move on to the calculator project, but struggling to visualize how to approach it. Feeling a bit of “code feet,” but planning to start it tomorrow regardless.
+
+- Highs: Made it to Day 10 of the challenge — a solid milestone! 90 more days to go 💪
+
+### R1D11
