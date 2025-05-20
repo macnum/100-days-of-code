@@ -48,3 +48,10 @@ Completed JavaScript exercises including palindrome checks, Fibonacci sequence, 
 - Highs: Made it to Day 10 of the challenge — a solid milestone! 90 more days to go 💪
 
 ### R1D11
+Started working on the calculator project from The Odin Project.
+
+ - Lows: Struggling to figure out the logic for selecting buttons and adding their values. It’s frustrating not being able to connect the pieces yet.
+
+ - Highs: Still showed up and gave it a shot — that’s what counts. Progress over perfection.
+
+### R1D12
