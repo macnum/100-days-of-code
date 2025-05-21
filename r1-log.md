@@ -55,3 +55,6 @@ Started working on the calculator project from The Odin Project.
  - Highs: Still showed up and gave it a shot — that’s what counts. Progress over perfection.
 
 ### R1D12
+Took a step back today. Watched Brad Traversy’s Modern JavaScript course on Udemy to reset. Been stuck on The Odin Project's calculator—frustrating but stepping back helps. Ready to dive back in tomorrow! Progress is progress.
+
+### R1D13 
