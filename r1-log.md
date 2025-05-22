@@ -57,4 +57,14 @@ Started working on the calculator project from The Odin Project.
 ### R1D12
 Took a step back today. Watched Brad Traversy’s Modern JavaScript course on Udemy to reset. Been stuck on The Odin Project's calculator—frustrating but stepping back helps. Ready to dive back in tomorrow! Progress is progress.
 
-### R1D13 
+### R1D13
+Day 13 of #100DaysOfCode
+I’m honestly exhausted today. I’ve tried multiple approaches for the calculator project — rewritten the code more than 8 times. I even experimented with using objects since they are reference types, thinking it would make assigning variables easier, but the logic still isn’t clicking. The app behavior is all over the place.
+
+On the bright side, I’m now trying to apply the principle of separation of concerns — breaking the project into smaller, focused functions for each task. Hopefully, that brings some structure and clarity.
+
+Lows: Feeling frustrated. The more I try, the more the bugs pile up. It’s been hard figuring out the right flow.
+
+Highs: Still showing up and pushing through. Trying to write cleaner code by organizing logic into separate functions. That’s growth in itself.
+
+### R1D14 
