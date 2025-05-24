@@ -68,3 +68,16 @@ Lows: Feeling frustrated. The more I try, the more the bugs pile up. It’s been
 Highs: Still showing up and pushing through. Trying to write cleaner code by organizing logic into separate functions. That’s growth in itself.
 
 ### R1D14 
+Day 14 of #100DaysOfCode
+
+Missed yesterday’s commit (fell asleep :sweat_smile:), so here’s the update:
+
+:tada: Got the basic calculator working!
+
+Current issue: The operate function runs multiple times when clicking "=" or operator buttons. Working on fixing the logic to ensure it runs only once unless a new value is added.
+
+Lows: Debugging this is exhausting.
+
+Highs: The calculator actually works now!
+
+### R1D15
