@@ -88,3 +88,12 @@ Exhausted, so not much coding done, but I stayed in the learning zone:
 📰 Browsed dev articles
 
 ### R1D16
+✅ Finished my Calculator Project! It might still be a little buggy, but I’m calling it done for now — I can always come back to fine-tune it later.
+🧠 Also spent time learning and practicing:
+
+- Emmet — makes writing HTML/CSS so much faster.
+- SVG — explored how scalable vector graphics work and how to use them.
+Highs: Big win getting the calculator project across the finish line!
+Lows: Still a few quirks in the code
+
+### R1D17
