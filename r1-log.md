@@ -81,3 +81,10 @@ Lows: Debugging this is exhausting.
 Highs: The calculator actually works now!
 
 ### R1D15
+Missed a commit yesterday—wedding party vibes 🎉.
+Exhausted, so not much coding done, but I stayed in the learning zone:
+📺 Watched WebBos videos on Emmet
+📘 Read Emmet docs
+📰 Browsed dev articles
+
+### R1D16
