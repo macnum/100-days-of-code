@@ -97,3 +97,7 @@ Highs: Big win getting the calculator project across the finish line!
 Lows: Still a few quirks in the code
 
 ### R1D17
+Forgot to commit yesterday. Eyes have been feeling tired for no reason lately. 😓
+Kept it light — explored HTML tables. Surprising how deep and broad the topic is!
+
+### R1D18
