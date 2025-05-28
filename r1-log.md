@@ -105,4 +105,8 @@ Forgot to commit again yesterday—been so tired lately by evening 😴
 Did an exercise on HTML tables. Learned about scope, id, headers, col, row, rowgroup, colgroup.
 Also explored CSS resets: Normalize, Meyer’s Reset, and others.
 
+### R1D19
+Learned about CSS units—rem, em, px, %, ch, vw, and when to use each.
+Also explored best font practices and discovered some new CSS properties.
 
+## R1D20
