@@ -101,3 +101,8 @@ Forgot to commit yesterday. Eyes have been feeling tired for no reason lately. �
 Kept it light — explored HTML tables. Surprising how deep and broad the topic is!
 
 ### R1D18
+Forgot to commit again yesterday—been so tired lately by evening 😴
+Did an exercise on HTML tables. Learned about scope, id, headers, col, row, rowgroup, colgroup.
+Also explored CSS resets: Normalize, Meyer’s Reset, and others.
+
+
