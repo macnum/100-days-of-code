@@ -110,3 +110,6 @@ Learned about CSS units—rem, em, px, %, ch, vw, and when to use each.
 Also explored best font practices and discovered some new CSS properties.
 
 ## R1D20
+learned about advanced css selector, css positioning and css functions
+
+### R1D21
