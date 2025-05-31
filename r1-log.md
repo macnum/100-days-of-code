@@ -113,3 +113,9 @@ Also explored best font practices and discovered some new CSS properties.
 learned about advanced css selector, css positioning and css functions
 
 ### R1D21
+Day 21 of #100DaysOfCode
+Wrapped up CSS functions and explored CSS custom properties.
+Took a brief dive into CSS frameworks & preprocessors.
+Also read several articles on browser compatibility, super insightful stuff
+
+### R1D22
