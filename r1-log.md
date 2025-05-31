@@ -119,3 +119,7 @@ Took a brief dive into CSS frameworks & preprocessors.
 Also read several articles on browser compatibility, super insightful stuff
 
 ### R1D22
+Focused on HTML forms today—covered various form controls like input types, labels, buttons, and more.
+Understanding how to structure forms properly is 🔑 for good UX
+
+### R1D23
