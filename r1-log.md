@@ -123,3 +123,6 @@ Focused on HTML forms today—covered various form controls like input types, la
 Understanding how to structure forms properly is 🔑 for good UX
 
 ### R1D23
+Focused on form validation today using just HTML and CSS—no JavaScript yet. Explored built-in validation rules and how to style valid/invalid states. Also refreshed some basics on regex.
+
+### R1D24
