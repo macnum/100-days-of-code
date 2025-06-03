@@ -129,3 +129,7 @@ Focused on form validation today using just HTML and CSS—no JavaScript yet. Ex
 Kept it light today. Spent time researching regex in preparation for the upcoming sign-up form project with HTML & CSS validation. Felt a bit unready, but I’ve realized it's okay to start and revisit concepts as needed. 
 
 ### R1D25
+Built a sign-up form using HTML pattern + regex for validation. Applied what I’ve learned so far—semantic HTML, CSS properties, and used rem over px for better UI/UX scaling.
+Not pixel-perfect, but everything works smoothly!
+
+### R1D26
