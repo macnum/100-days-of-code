@@ -126,3 +126,6 @@ Understanding how to structure forms properly is 🔑 for good UX
 Focused on form validation today using just HTML and CSS—no JavaScript yet. Explored built-in validation rules and how to style valid/invalid states. Also refreshed some basics on regex.
 
 ### R1D24
+Kept it light today. Spent time researching regex in preparation for the upcoming sign-up form project with HTML & CSS validation. Felt a bit unready, but I’ve realized it's okay to start and revisit concepts as needed. 
+
+### R1D25
