@@ -133,3 +133,6 @@ Built a sign-up form using HTML pattern + regex for validation. Applied what Iâ€
 Not pixel-perfect, but everything works smoothly!
 
 ### R1D26
+Did a brief intro to CSS Grid todayâ€”learning about rows, columns, and how grid layout works. Looking forward to building more with it soon!
+
+### R1D27
