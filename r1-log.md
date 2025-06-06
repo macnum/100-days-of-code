@@ -136,3 +136,6 @@ Not pixel-perfect, but everything works smoothly!
 Did a brief intro to CSS Grid today—learning about rows, columns, and how grid layout works. Looking forward to building more with it soon!
 
 ### R1D27
+Kept it light today—just explored a bit of the history behind CSS Grid. Was interesting to see how far layout systems have come.
+
+### R1D28
