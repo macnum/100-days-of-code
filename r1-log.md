@@ -139,3 +139,10 @@ Did a brief intro to CSS Grid today—learning about rows, columns, and how grid
 Kept it light today—just explored a bit of the history behind CSS Grid. Was interesting to see how far layout systems have come.
 
 ### R1D28
+Forgot to commit yesterday—slept off 😴. Been diving into CSS Grid. Not gonna lie, the syntax is a bit confusing.
+But I now understand:
+🔹 grid-template basics
+🔹 How to use line numbers & named areas
+🔹 Overlapping grid items
+
+### R1D29
