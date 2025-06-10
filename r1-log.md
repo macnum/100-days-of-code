@@ -146,3 +146,10 @@ But I now understand:
 🔹 Overlapping grid items
 
 ### R1D29
+Day 29 of #100DaysOfCode
+Still working through CSS Grid. Focused on layouts today using:
+🔹 grid-area
+🔹 repeat(), minmax(), min(), and clamp() — super useful for flexible grid tracks
+Also did a quick recap of grid concepts.
+
+### R1D30
