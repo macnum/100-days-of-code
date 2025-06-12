@@ -158,4 +158,10 @@ Wrapped up a CSS Grid recap today!
 🔹 Learned how to use auto-fit, auto-fill, and minmax() with repeat()
 Really starting to grasp layout strategies better now.
 
-###
+### R1D31
+Did a recap on auto-fill & auto-fit in CSS Grid.
+🎥 Watched videos & read articles on mixing Flexbox and Grid—when each is best suited.
+📐 Worked on a semi-finished Holy Grail layout using Grid.
+Learning layout fundamentals, one step at a time!
+
+### R1D32
