@@ -153,3 +153,9 @@ Still working through CSS Grid. Focused on layouts today using:
 Also did a quick recap of grid concepts.
 
 ### R1D30
+Wrapped up a CSS Grid recap today!
+🔹 Rewatched some videos on when to use Grid vs Flexbox
+🔹 Learned how to use auto-fit, auto-fill, and minmax() with repeat()
+Really starting to grasp layout strategies better now.
+
+###
