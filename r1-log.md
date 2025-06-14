@@ -171,3 +171,6 @@ Started working on an Admin Dashboard project.
 📄 Added the dummy content and set up the initial grid-based layout.
 
 ### R1D33
+✅ Finished the Admin Dashboard project.
+📐 My design is close to the original design file, though it's still off by a noticeable margin.
+📱 Haven’t learned responsive design with media queries yet, so the layout breaks on smaller screens or when zooming.
