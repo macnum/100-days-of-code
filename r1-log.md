@@ -174,3 +174,8 @@ Started working on an Admin Dashboard project.
 ✅ Finished the Admin Dashboard project.
 📐 My design is close to the original design file, though it's still off by a noticeable margin.
 📱 Haven’t learned responsive design with media queries yet, so the layout breaks on smaller screens or when zooming.
+
+### R1D34
+Dived into JavaScript constructors today — learned how they work behind the scenes with the new keyword and how they help create multiple instances of objects efficiently. Starting to see how they connect with prototypes too.
+
+### R1D35
