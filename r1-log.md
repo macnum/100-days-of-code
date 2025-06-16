@@ -179,3 +179,4 @@ Started working on an Admin Dashboard project.
 Dived into JavaScript constructors today — learned how they work behind the scenes with the new keyword and how they help create multiple instances of objects efficiently. Starting to see how they connect with prototypes too.
 
 ### R1D35
+Focused on understanding JavaScript prototypes today. I’m starting to get a sense of how they work—especially how objects inherit from one another—but it still feels a bit confusing at times. Hoping it’ll click more as I see real use cases.
