@@ -180,3 +180,8 @@ Dived into JavaScript constructors today — learned how they work behind the sc
 
 ### R1D35
 Focused on understanding JavaScript prototypes today. I’m starting to get a sense of how they work—especially how objects inherit from one another—but it still feels a bit confusing at times. Hoping it’ll click more as I see real use cases.
+
+### R1D36
+Stuck at the prototypes not sure how i could explain this but i feel lost.
+
+### R1D37
