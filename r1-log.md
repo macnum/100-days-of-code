@@ -185,3 +185,6 @@ Focused on understanding JavaScript prototypes today. I’m starting to get a se
 Stuck at the prototypes not sure how i could explain this but i feel lost.
 
 ### R1D37
+Started the a simple liabry app planing on using protypes and constructors to build it
+
+### R1D38
