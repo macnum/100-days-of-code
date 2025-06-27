@@ -187,4 +187,7 @@ Stuck at the prototypes not sure how i could explain this but i feel lost.
 ### R1D37
 Started the a simple liabry app planing on using protypes and constructors to build it
 
+### Temp (R1D38- R1D45)
+    To be honest  i have been coding spent atleast 30min on each either watching a video or working on the libary project but since i have not been commit  i will commit from day 38 on the next commit"
+
 ### R1D38
