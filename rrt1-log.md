@@ -11,3 +11,8 @@ Watched a 1hour+ udemy video on js by brad travesy - it was more of a refresher 
 
 ### R1D2
 Spent about three hours watching js udemy course by both brad traversy and code with - currently tring to build a shopping list app
+
+### R1D3
+Spent about 2 hours building a shopping list app by following along a  udemy tutorial
+
+### R1D4
