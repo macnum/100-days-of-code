@@ -16,3 +16,4 @@ Spent about three hours watching js udemy course by both brad traversy and code 
 Spent about 2 hours building a shopping list app by following along a  udemy tutorial
 
 ### R1D4
+ Tried rebuilding the shopping list app without help. I was successful with all functionalities working,but i'm currently having issues storing the list items in local storage
