@@ -17,3 +17,8 @@ Spent about 2 hours building a shopping list app by following along a  udemy tut
 
 ### R1D4
  Tried rebuilding the shopping list app without help. I was successful with all functionalities working,but i'm currently having issues storing the list items in local storage
+
+ ### R1D5
+ Finished building the shopping list app , i got session storage working, i also have been able to deploy netlify
+
+ ### R1D6
