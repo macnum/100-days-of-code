@@ -19,7 +19,12 @@ Spent about 2 hours building a shopping list app by following along a  udemy tut
  Tried rebuilding the shopping list app without help. I was successful with all functionalities working,but i'm currently having issues storing the list items in local storage
 
  ### R1D5
- Finished building the shopping list app , i got session storage working, i also have been able to deploy netlify
+ Finished building the shopping list app , I got session storage working,was also able to deploy netlify
 
  ### R1D6
- Started Angela yu udemy course on webdevelopment , adding it to also watching traversy media js course, also worked a website for someone using tailwind and js"
+ Started Angela yu udemy course on webdevelopment , adding it to also watching traversy media js course.
+ Pros: working on a website for someone using tailwind and js.
+
+ Cons: i feel like a fraud since i'm not sure if i can build it (i wanted to challenge myb self), after trying to present my self like an expert( i don't even know react)- i have about 7 to 9 days to deliver , pay is also nothing to talk about , i don't think anything would left after i pay for hosting and domain names"
+
+ ###
