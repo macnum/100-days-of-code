@@ -22,3 +22,4 @@ Spent about 2 hours building a shopping list app by following along a  udemy tut
  Finished building the shopping list app , i got session storage working, i also have been able to deploy netlify
 
  ### R1D6
+ Started Angela yu udemy course on webdevelopment , adding it to also watching traversy media js course, also worked a website for someone using tailwind and js"
