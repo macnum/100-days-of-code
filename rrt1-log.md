@@ -27,4 +27,7 @@ Spent about 2 hours building a shopping list app by following along a  udemy tut
 
  Cons: i feel like a fraud since i'm not sure if i can build it (i wanted to challenge myb self), after trying to present my self like an expert( i don't even know react)- i have about 7 to 9 days to deliver , pay is also nothing to talk about , i don't think anything would left after i pay for hosting and domain names"
 
- ###
+ ### R1D7
+ Did not do much today watched some traversy media udemy course on asynchronous , worked on the clients project, watched a bit of angela yu webdevlopment course
+
+ ### R1D8
