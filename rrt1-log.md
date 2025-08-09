@@ -31,5 +31,7 @@ Spent about 2 hours building a shopping list app by following along a  udemy tut
  Did not do much today watched some traversy media udemy course on asynchronous , worked on the clients project, watched a bit of angela yu webdevlopment course
 
  ### R1D8
- watched a video on asycrhonuous js,partially done.
- 
+ watched a video on asycrhonous js,partially done.
+
+ ### R1D9
+ watch a video on xml http request
