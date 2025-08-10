@@ -35,3 +35,7 @@ Spent about 2 hours building a shopping list app by following along a  udemy tut
 
  ### R1D9
  watch a video on xml http request
+
+### R1D10
+Built a joke generator usimg chuks norris joke api
+
