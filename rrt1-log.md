@@ -39,3 +39,5 @@ Spent about 2 hours building a shopping list app by following along a  udemy tut
 ### R1D10
 Built a joke generator usimg chuks norris joke api
 
+### R1D11
+Learnt about promise object, using then, catch , event loop and callback queue
