@@ -44,4 +44,6 @@ Learnt about promise object, using then, catch , event loop and callback queue
 
 ### R1D12
 Read an articles on how to seperate ui  state control- i still dont get it
- 
+
+### R1D13
+Did a brief reiw on prototype, js basic syntax, trying figure out the logic  of tic tac toe game
