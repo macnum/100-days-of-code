@@ -41,3 +41,7 @@ Built a joke generator usimg chuks norris joke api
 
 ### R1D11
 Learnt about promise object, using then, catch , event loop and callback queue
+
+### R1D12
+Read an articles on how to seperate ui  state control- i still dont get it
+ 
