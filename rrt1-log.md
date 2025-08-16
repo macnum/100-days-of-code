@@ -51,4 +51,7 @@ Did a brief reiw on prototype, js basic syntax, trying figure out the logic  of 
 ### R1D14
 Did some code wars challenge, watched some inspiration coding videos
 
- 
+ ### R1D15
+ Did some kata code war challenge, worked on webos js course, did a recap on odin project factory function 
+
+ ### R1D16
