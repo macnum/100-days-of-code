@@ -47,3 +47,8 @@ Read an articles on how to seperate ui  state control- i still dont get it
 
 ### R1D13
 Did a brief reiw on prototype, js basic syntax, trying figure out the logic  of tic tac toe game
+
+### R1D14
+Did some code wars challenge, watched some inspiration coding videos
+
+ 
