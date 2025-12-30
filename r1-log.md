@@ -10,3 +10,6 @@ Watched a 35 minute udemy video on CSS, learned about: floats etc, did some code
 
 ### R1D2 ✅
 Watched a 1hr+ udemy video on CSS, learned about: flex etc, did some freecodecamp  js cert- 4 sections. 💪
+
+### R1D2 ✅
+Watched a 1hr+ udemy video on CSS, learned about: grid etc 💪
