@@ -13,3 +13,6 @@ Watched a 1hr+ udemy video on CSS, learned about: flex etc, did some freecodecam
 
 ### R1D2 ✅
 Watched a 1hr+ udemy video on CSS, learned about: grid etc 💪
+
+### R1D3
+Watched a 1hr+ udemy video on CSS, learned about: bootstrap etc
