@@ -23,3 +23,5 @@ Watched a 1hr+ udemy video on CSS, learned about: color topography, built a webs
 ### R1D6 ✅
 Built a shopping list by watching brad traversy media modern js course, learnt about color topography form angela yu web dev course.
 
+### R1D7
+finished up on the shopping list app- didn't do much today.
