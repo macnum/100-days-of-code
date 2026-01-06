@@ -25,3 +25,6 @@ Built a shopping list by watching brad traversy media modern js course, learnt a
 
 ### R1D7
 finished up on the shopping list app- didn't do much today.
+
+### R1D8
+Add the filter item for the shopping list  and a bit of brainstorming.
