@@ -28,3 +28,6 @@ finished up on the shopping list app- didn't do much today.
 
 ### R1D8
 Add the filter item for the shopping list  and a bit of brainstorming.
+
+### R1D9
+worked on the the function of add ing an edit function to shopping list app
