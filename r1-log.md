@@ -31,3 +31,6 @@ Add the filter item for the shopping list  and a bit of brainstorming.
 
 ### R1D9
 worked on the the function of add ing an edit function to shopping list app
+
+### R1D10 ✅
+Finished building the shopping list practice app. moving on to the next project.
