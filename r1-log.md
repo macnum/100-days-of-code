@@ -1,36 +1,11 @@
 # #100DaysOfCode Log - Round 1 - [macnum]
 
-The log of my #100DaysOfCode challenge. Started afresh on [December 28, Sunday, 2025].
+The log of my #100DaysOfCode challenge. Started afresh on [January 14, Jan, 2026].
 
 ## Log
 
-### R1D1 ✅
+### R1D1 ✅ -restart
 Restarted my coding journey today!
-Watched a 35 minute udemy video on CSS, learned about: floats etc, did some codewars - 4 kata's. i'm excited to keep going! 💪
+working on a todolist app that seperates ui/ux, dom from code using solid principles. i'm building the todolist using classes, prototypes and modules
 
-### R1D2 ✅
-Watched a 1hr+ udemy video on CSS, learned about: flex etc, did some freecodecamp  js cert- 4 sections. 💪
-
-### R1D3 ✅
-Watched a 1hr+ udemy video on CSS, learned about: grid etc 💪
-
-### R1D4 ✅
-Watched a 1hr+ udemy video on CSS, learned about: bootstrap etc
-
-### R1D5 ✅
-Watched a 1hr+ udemy video on CSS, learned about: color topography, built a website using bootstrap etc
-
-### R1D6 ✅
-Built a shopping list by watching brad traversy media modern js course, learnt about color topography form angela yu web dev course.
-
-### R1D7
-finished up on the shopping list app- didn't do much today.
-
-### R1D8
-Add the filter item for the shopping list  and a bit of brainstorming.
-
-### R1D9
-worked on the the function of add ing an edit function to shopping list app
-
-### R1D10 ✅
-Finished building the shopping list practice app. moving on to the next project.
+### R1D2
