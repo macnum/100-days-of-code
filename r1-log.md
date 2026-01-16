@@ -11,4 +11,7 @@ working on a todolist app that seperates ui/ux, dom from code using solid princi
 ### R1D2 ✅
 worked on the todolist add and remove task using modules and classes, currently working on the todolist edit function.
 
-### R1D3
+### R1D3 ✅
+Worked on the edit function, add a method that saves and cancel when editing  a list or in editmode - did not do much today.
+
+### R1D4
