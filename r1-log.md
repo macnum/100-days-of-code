@@ -14,4 +14,7 @@ worked on the todolist add and remove task using modules and classes, currently 
 ### R1D3 ✅
 Worked on the edit function, add a method that saves and cancel when editing  a list or in editmode - did not do much today.
 
-### R1D4
+### R1D4 ✅
+worked on the local storage function, learnt about how to access, render, parse local storage json string and how to use it.
+
+### R1D5 ✅
