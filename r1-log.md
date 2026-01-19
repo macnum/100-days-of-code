@@ -18,3 +18,6 @@ Worked on the edit function, add a method that saves and cancel when editing  a 
 worked on the local storage function, learnt about how to access, render, parse local storage json string and how to use it.
 
 ### R1D5 ✅
+worked on the modal pop up and layout of the todolist
+
+### R1D6
