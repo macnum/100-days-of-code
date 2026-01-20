@@ -20,4 +20,7 @@ worked on the local storage function, learnt about how to access, render, parse 
 ### R1D5 ✅
 worked on the modal pop up and layout of the todolist
 
-### R1D6
+### R1D6 ✅
+Got the basic functionality of the todo list working with a beautiful -styled UI.
+
+### R1D7
