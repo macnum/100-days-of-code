@@ -23,4 +23,7 @@ worked on the modal pop up and layout of the todolist
 ### R1D6 ✅
 Got the basic functionality of the todo list working with a beautiful -styled UI.
 
-### R1D7
+### R1D7  ✅
+worked on adding other task object and styling it
+
+ ### R1D8
