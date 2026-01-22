@@ -26,4 +26,7 @@ Got the basic functionality of the todo list working with a beautiful -styled UI
 ### R1D7  ✅
 worked on adding other task object and styling it
 
- ### R1D8
+ ### R1D8  ✅
+ worked on adding the project rendering of the todolist
+
+  ### R1D9
