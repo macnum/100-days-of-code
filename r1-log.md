@@ -16,3 +16,9 @@ Finished working on the Homepage project, it is complete in sturcture but design
 ### R1D3 ✅
 
 I finally created my first React app using Vite. it is not much but i'm getting there.
+
+### R1D4 ✅
+
+i did not do much today , just worked on the react documentation and the excercise , sites from odin project
+
+### R1D5 ✅
